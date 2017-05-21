@@ -1,0 +1,6 @@
+'my_alias':
+ command: /random
+ type: RUN_COMMAND
+ runcmd:
+ - /rtp
+ -msg @p Randomly Teleporting (might lag a little)
